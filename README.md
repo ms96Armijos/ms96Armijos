@@ -4,7 +4,7 @@
 <h3 align="center"> About of me :boy:</h3>
 <hr>
 
-<li> 🔭 I’m currently learning Flutter and Deep Learning</li>
+<li> 🔭 I’m currently learning MEAN Stack</li>
 <li> 💬 Ask me about flutter, firebase, mongodb, express, nodejs</li>
 <li> 😄 Pronouns: He/His</li>
 
