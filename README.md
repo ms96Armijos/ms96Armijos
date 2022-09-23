@@ -6,6 +6,7 @@
 
 <li> 🔭 I’m currently learning MEAN Stack</li>
 <li> 💬 Ask me about flutter, firebase, mongodb, express, nodejs</li>
+<li> :hourglass_flowing_sand: I'm develop in my free time an movil app for the work of my father. I use the framework flutter and RealTimeDatabase of firebase.</li> 
 
 <hr>
 
