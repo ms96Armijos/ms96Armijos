@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋, I'm Steeven Armijos, I live in Marcabeli - El Oro </h1>
+<h1 align="center"> Hello :relaxed:, I'm Steeven Armijos, I live in Marcabeli - El Oro </h1>
 
 
 <h3 align="center"> About of me :boy:</h3>
