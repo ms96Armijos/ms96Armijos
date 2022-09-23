@@ -39,7 +39,7 @@ Programming Languages that I used a the large of the time in personal projects a
 <img alt="ms96Armijos github stats" src="https://github-readme-stats.vercel.app/api?username=ms96Armijos&show_icons=true&theme=merko"  > </p>
 
 
-<h3 align="center">Top langs :eyes:</h3>
+<h3 align="center">Top langs :muscle:</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms96Armijos&langs_count=10&theme=tokyonight&layout=compact" alt="ms96Armijos :: Top Langs" /></p>
 
