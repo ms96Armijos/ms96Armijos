@@ -6,7 +6,6 @@
 
 <li> 🔭 I’m currently learning MEAN Stack</li>
 <li> 💬 Ask me about flutter, firebase, mongodb, express, nodejs</li>
-<li> 😄 Pronouns: He/His</li>
 
 <hr>
 
